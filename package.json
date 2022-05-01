@@ -1,0 +1,24 @@
+{
+  "name": "node_hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "task1": "node task1",
+    "task2": "node task2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olgaNovak89/node_hw1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olgaNovak89/node_hw1/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/olgaNovak89/node_hw1#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
